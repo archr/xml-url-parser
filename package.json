@@ -1,0 +1,27 @@
+{
+  "name": "xml-url-parser",
+  "version": "0.1.0",
+  "description": "Get items of xml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archr/xml-url-parser.git"
+  },
+  "keywords": [
+    "xml"
+  ],
+  "author": "Antonio Sandoval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archr/xml-url-parser/issues"
+  },
+  "homepage": "https://github.com/archr/xml-url-parser#readme",
+  "dependencies": {
+    "debug": "^2.6.0",
+    "request": "^2.79.0",
+    "xml-stream": "^0.4.5"
+  }
+}
