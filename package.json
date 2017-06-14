@@ -1,6 +1,6 @@
 {
   "name": "xml-url-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get items of xml",
   "main": "index.js",
   "scripts": {
